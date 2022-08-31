@@ -20,7 +20,6 @@ LICENSE: [MIT](./license.md)
 11. [git fetch](./fetch.md)
 12. [git pull](./pull.md)
 13. [git branch](./branch.md)
-14. [git checkout](./checkout.md)
-15. [git merge](./merge.md)
+14. [git merge](./merge.md)
 ---
 GIT logo by Jason Long - http://git-scm.com/downloads/logos,license: [CC BY 3.0](https://creativecommons.org/license/by/3.0)
