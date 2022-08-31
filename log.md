@@ -8,7 +8,7 @@
 
 
 ```bash=
-git log -p .
+git log -p
 ``` 
 
 
