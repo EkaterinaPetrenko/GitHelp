@@ -22,4 +22,4 @@ LICENSE: [MIT](./license.md)
 13. [git branch](./branch.md)
 14. [git merge](./merge.md)
 ---
-GIT logo by Jason Long - http://git-scm.com/downloads/logos,license: [CC BY 3.0](https://creativecommons.org/license/by/3.0)
+GIT logo by Jason Long - http://commons.wikimedia.org/wiki/File:Git-logo.svg, license: [CC BY 3.0](https://creativecommons.org/license/by/3.0)
