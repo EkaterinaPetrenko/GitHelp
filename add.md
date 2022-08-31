@@ -8,7 +8,7 @@
 
 
 ```bash=
-git add
+git add .
 ``` 
 
 
